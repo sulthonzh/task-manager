@@ -23,3 +23,9 @@ htmlcov/
 
 # Sisyphus
 .sisyphus/
+
+.env
+.env.*
+!.env.example
+!.env.template
+node_modules/
