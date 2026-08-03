@@ -29,3 +29,5 @@ htmlcov/
 !.env.example
 !.env.template
 node_modules/
+.mypy_cache/
+.DS_Store
